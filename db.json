@@ -1,9 +1,64 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "blogs": [
+    {
+      "id": "31a3",
+      "title": "A Guide to Traveling on a Budget",
+      "category": "Travel",
+      "image_url": "https://prd.ssbcdn.com/ssbweb/media/images/1%20-%20personal/stories%20and%20insights/travel-budget-2-1174x680.jpg?ext=.jpg",
+      "added_time": "2024-10-11T10:30:39.637Z",
+      "description": "How to explore the world without breaking the bank, with tips for budget-friendly travel."
+    },
+    {
+      "id": "f365",
+      "title": "Healthy Living: Tips for a Balanced Lifestyle",
+      "category": "Lifestyle",
+      "image_url": "https://www.pathkindlabs.com/sites/default/files/styles/large/public/blog2.png",
+      "added_time": "2024-10-13T16:54:32.962Z",
+      "description": "Learn how to maintain a healthy and balanced lifestyle through exercise, nutrition, and mindfulness."
+    },
+    {
+      "id": "9d8e",
+      "title": "The Role of Pets in Mental Health",
+      "category": "Animals",
+      "image_url": "https://www.amtmindia.org/wp-content/uploads/2024/01/AMTM-Blog-Sep-02-2.jpg",
+      "added_time": "2024-10-13T16:55:17.607Z",
+      "description": "Discover how pets can contribute to mental well-being and emotional support."
+    },
+    {
+      "id": "2bb8",
+      "title": "10 Tips for a Healthier Lifestyle",
+      "category": "Animals",
+      "image_url": "https://i0.wp.com/bdtechtuner.com/wp-content/uploads/2024/01/Healthy-Lifestyle-Tips.png?fit=1280%2C720&ssl=1",
+      "added_time": "2024-10-13T17:39:27.660Z",
+      "description": "Living a healthy lifestyle doesn't have to be complicated. In this blog, we share 10 simple tips to improve your health and well-being."
+    },
+    {
+      "id": "144d",
+      "title": "",
+      "category": "Animals",
+      "image_url": "https://miro.medium.com/v2/resize:fit:1400/1*dGRUmjxEpy21ut0dX-mBwA.jpeg",
+      "added_time": "2024-10-13T18:19:46.041Z",
+      "description": "Discover the benefits of mindfulness meditation and how it can transform your daily life, helping you achieve peace and clarity."
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "users": [
+    {
+      "id": "1",
+      "username": "aminaliyev",
+      "email": "amin@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "8f0d",
+      "username": "username1",
+      "email": "username1@gmail.com",
+      "password": "username123"
+    },
+    {
+      "id": "2366",
+      "username": "thebrhmly",
+      "email": "alibrahimov21@gmail.com",
+      "password": "12345"
+    }
+  ]
 }
